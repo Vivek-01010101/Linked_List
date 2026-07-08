@@ -91,6 +91,7 @@ count = 0
 ```
 
 ### Memory Layout
+<img width="1748" height="899" alt="image" src="https://github.com/user-attachments/assets/fa0d75cb-107f-4b0f-85d8-1b7c62c65039" />
 
 
 ### Rule of Three
